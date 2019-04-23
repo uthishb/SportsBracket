@@ -1,0 +1,5 @@
+Description : SportsBracket is a tinder style app that lets you quickly generate your March Madness brackets.
+
+Technology:
+
+Database : PostgreSQL
